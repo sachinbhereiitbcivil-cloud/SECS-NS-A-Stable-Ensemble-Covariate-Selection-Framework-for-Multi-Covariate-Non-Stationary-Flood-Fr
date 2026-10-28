@@ -1,4 +1,4 @@
-# CovSF-NS — stability-based ensemble covariate selection for non-stationary flood frequency analysis
+# SECS-NS — stability-based ensemble covariate selection for non-stationary flood frequency analysis
 
 R code that reproduces every number, table and figure in the manuscript. Tested with R 4.3.3.
 
